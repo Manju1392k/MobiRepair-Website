@@ -31,7 +31,7 @@ The below table frameworker's are used in this project. To Run this project this
 
 ---
 
-# Command To Run Project
+# Command for Run Project
 ```bash
   npm run runserver
 ```

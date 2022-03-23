@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/66934377/158595868-961ce32a-b288-4071-
 
 # Framework 
 
-The below table frameworker's are used in this project. To Run this project this frameworks has been installed in system with same Version or lastest Version
+The below table frameworker's are used in this project. To Run this project this frameworks has been installed in system with same Version or latest Version
 
 | Framework  | Version |
 | ------------- | ------------- |

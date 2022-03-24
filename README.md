@@ -1,7 +1,7 @@
 
 # MobiRepair 
 
-MobieRepair is a website.This Website Contains New lastest techique's in mobile Repairing and How mobile will be repaired with Lastest Techique's
+MobieRepair is a website.This Website Contains New latest techique's in mobile Repairing and How mobile will be repaired with Lastest Techique's
 
 ---
 
